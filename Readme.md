@@ -84,8 +84,7 @@ The report is split into distinct visual pages:
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/your-username/zomato-analysis-powerbi.git
-   
+   https://github.com/Yesodha33/Zomato-Order-Restaurant-Analysis-/tree/main
    ```
 
 2. **Open Processed Data:**
